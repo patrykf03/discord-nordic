@@ -76,22 +76,7 @@
   background-color: var(--nord-primary);
 }
 
-/**
- * Warning cards
- */
-.warning-3C2pOH {
-  border-color: var(--nord-orange);
-  color: var(--interactive-normal);
-}
-.warning-3C2pOH .icon-1jlFSw {
-  color: var(--nord-orange);
-}
 
-.cardWarning-2yPNAa {
-  border-color: var(--nord-orange);
-  background-color: var(--nord-orange);
-  color: var(--nord-light3);
-}
 
 /**
  * Friends
@@ -134,13 +119,7 @@
   border-top-color: var(--nord-green) !important;
 }
 
-/* Red */
-.tooltipRed-8-9NeP {
-  background-color: var(--nord-red) !important;
-}
-.tooltipRed-8-9NeP .tooltipPointer-3ZfirK {
-  border-top-color: var(--nord-red) !important;
-}
+
 
 /* Yellow */
 .tooltipYellow-E7eIBE {
