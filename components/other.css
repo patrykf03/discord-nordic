@@ -44,17 +44,6 @@
   color: var(--nord-green) !important;
 }
 
-/* Red */
-.colorDanger-2qLCe1,
-.colorDanger-2qLCe1 .checkbox-3s5GYZ,
-.colorDanger-2qLCe1 .radioSelection-1HmrQS,
-.beta-3smTDE,
-.warning-3qyw2h,
-.doesNot-36YbF_,
-.colorError-3RX-d6,
-.pruneLink-3V7wes {
-  background-color: var(--nord-red) !important;
-}
 
 /**
  * Channel header
