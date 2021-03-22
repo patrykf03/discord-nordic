@@ -67,7 +67,6 @@
      --ownerIcon: var(--nord-orange);
      --adminIcon: var(--nord-dark5);
    
-     --interactive-normal: var(var(--nord-grey1));
      --interactive-hover: var(--nord-light4);
      --interactive-active: var(--nord-light5);
      --interactive-muted: var(--text-muted);
