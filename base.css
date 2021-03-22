@@ -17,7 +17,6 @@
 
 .theme-dark {
     --header-secondary: #a6b0bf;
-    --text-normal: var(--nord-light1);
     --text-secondary: var(--nord-light0);
     --text-primary-background: var(--nord-black1);
     --text-link: var(--nord-primary);
