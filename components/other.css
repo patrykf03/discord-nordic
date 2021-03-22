@@ -53,7 +53,7 @@
 .doesNot-36YbF_,
 .colorError-3RX-d6,
 .pruneLink-3V7wes {
-  color: var(--nord-red) !important;
+  background-color: var(--nord-red) !important;
 }
 
 /**
