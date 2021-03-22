@@ -21,7 +21,6 @@
     --text-primary-background: var(--nord-black1);
     --text-link: var(--nord-primary);
     --text-searchbox-close: var(--nord-dark4);
-    --channels-default: var(--text-normal);
     --message-mentioned: var(--nord-primary);
     --calendar-border: var(--nord-black2);
     --divider: var(--nord-black2);
