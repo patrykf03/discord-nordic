@@ -1,27 +1,12 @@
 /**
- * @name Nordic
- * @author orblazer#9152
- * @version 2.8.5
- * @description Complete theme for Nordic (https://www.nordtheme.com/)
- * @source https://github.com/orblazer/discord-nordic
- * @donate https://www.paypal.me/orblazer
- * @authorId 179681974879911946
-*/
+ * @name Discord-nordic
+ * @author Patrykf03#0001
+ * @description Editing this shit was a pain in the ass. Tldr: fuck french comments in code.
+ * @version 1.69.420
+ */
 
 /**
  * SOURCE CODE
  * /!\ DONT TOUCH ! /!\
  */
-@import url('https://orblazer.github.io/discord-nordic/base.css');
-
-/**
- * CUSTOMIZATION
- */
-:root {
-}
-
-.theme-dark {
-}
-
-.theme-light {
-}
+ @import url('https://patrykf03.github.io/discord-nordic/base.css');
